@@ -7,3 +7,9 @@ Extracted the Dodgers’ battering averages from the Lahman’s Baseball Databas
 **Techniques used:**
 
 ETL, two sample t-test, linear regression, data visualization
+
+**Data Source**
+
+[Lahman's Baseball Database](seanlahman.com)
+
+
